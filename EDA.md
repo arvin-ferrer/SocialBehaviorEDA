@@ -357,7 +357,7 @@ plt.show()
 
 
     
-![png](outputs/output_10_0.png)
+![png](output_10_0.png)
     
 
 
@@ -399,7 +399,7 @@ for i, (key, value) in enumerate(categoricalFeature.items()):
 
 
     
-![png](outputs/output_12_0.png)
+![png](output_12_0.png)
     
 
 
@@ -431,7 +431,7 @@ sns.heatmap(personalityData[personalityData['Personality'] == 'Introvert'].corr(
 
 
     
-![png](outputs/output_14_1.png)
+![png](output_14_1.png)
     
 
 
@@ -496,7 +496,7 @@ print(loadings)
 
 
     
-![png](outputs/output_16_0.png)
+![png](output_16_0.png)
     
 
 
@@ -593,7 +593,7 @@ plt.show()
 
 
     
-![png](outputs/output_20_0.png)
+![png](output_20_0.png)
     
 
 
@@ -626,7 +626,7 @@ This visual + tabular combo effectively highlights the behavioral divergence bet
 
 
 ## Conclusion
-    Through a komprehensive exploratory data analysis (EDA) of the Extrovert vs Introvert Behavior Dataset, we observed and uncover some patterns in how personality types correlate with social behaviors.Key takeaways include:
+    Through a comprehensive exploratory data analysis (EDA) of the Extrovert vs Introvert Behavior Dataset, we observed and uncover some patterns in how personality types correlate with social behaviors.Key takeaways include:
 - Introverts tend to spend more time alone, attend fewer social events, and have smaller social circles.
 - Extroverts on the other hand are more socially active, attends more events, and typically have more friends.
 - Categorical traits like Stage Fear and Feeling Drained after Socializing show a strong contrast between the two groups, aligning with psychological expectations.
