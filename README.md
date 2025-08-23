@@ -115,7 +115,7 @@ This project analyzes how personality types (**Introvert vs Extrovert**) relate 
 
 ---
 
-### Correlations (Introverts Only)
+### Correlation Heatmap
 ![Heatmap](outputs/output_14_1.png)
 
 **Highlights**
