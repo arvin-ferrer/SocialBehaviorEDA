@@ -206,8 +206,10 @@ pandas
 matplotlib
 seaborn
 jupyter (if running the notebook)
+```
 
-Usage
+## Usage
+```
 Run the notebook
 jupyter notebook analysis.ipynb
 ```
