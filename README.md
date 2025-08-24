@@ -195,9 +195,9 @@ These patterns and findings support existing understanding and theories in psych
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/EDA-SocialBehavior.git
-cd EDA-SocialBehavior
-pip install -r requirements.txt
+git clone https://github.com/your-username/SocialBehaviorEDA.git
+cd SocialBehaviorEDA
+jupyter notebook EDA.ipynb
 
 # Requirements
 
@@ -211,5 +211,5 @@ jupyter (if running the notebook)
 ## Usage
 ```
 Run the notebook
-jupyter notebook analysis.ipynb
+jupyter notebook EDA.ipynb
 ```
