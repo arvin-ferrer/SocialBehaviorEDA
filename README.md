@@ -195,7 +195,7 @@ These patterns and findings support existing understanding and theories in psych
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/SocialBehaviorEDA.git
+git clone https://github.com/arvin-ferrer/SocialBehaviorEDA.git
 cd SocialBehaviorEDA
 jupyter notebook EDA.ipynb
 
