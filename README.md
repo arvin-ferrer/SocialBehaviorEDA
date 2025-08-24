@@ -205,7 +205,7 @@ Python 3.8+
 pandas
 matplotlib
 seaborn
-jupyter (if running the notebook)
+jupyter notebook
 ```
 
 ## Usage
