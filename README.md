@@ -84,7 +84,6 @@ This project analyzes how personality types (**Introvert vs Extrovert**) relate 
 
 ---
 
-## Visual Analyses
 
 ### Box Plots: Numeric Features vs Personality
 ![Box Plots](outputs/output_10_0.png)
