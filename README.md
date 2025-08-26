@@ -212,3 +212,8 @@ jupyter notebook
 Run the notebook
 jupyter notebook EDA.ipynb
 ```
+
+## Dataset used
+```
+https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data
+```
